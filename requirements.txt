@@ -1,3 +1,8 @@
 psutil
 colorama
 telethon
+requests>=2.27.1
+beautifulsoup4>=4.10.0
+pystyle>=2.9
+dnspython>=2.2.0
+urllib3>=1.26.8
