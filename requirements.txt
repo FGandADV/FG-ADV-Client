@@ -12,3 +12,5 @@ psutil==5.9.6
 lxml==4.9.3
 aiofiles==23.2.1
 asyncio-mqtt==0.16.1
+comtypes
+pywifi
